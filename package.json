@@ -1,0 +1,24 @@
+{
+  "name": "work-flow",
+  "version": "5.8.3",
+  "description": "this is a my work-flow for developement",
+  "homepage": "https://github.com/Fullstackmentorship2025Evening/TypeScript#readme",
+  "bugs": {
+    "url": "https://github.com/Fullstackmentorship2025Evening/TypeScript/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fullstackmentorship2025Evening/TypeScript.git"
+  },
+  "license": "MIT",
+  "author": "mohamedabdi",
+  "type": "commonjs",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "nodemon dist/arrays.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "typescript": "^5.8.3"
+  }
+}
